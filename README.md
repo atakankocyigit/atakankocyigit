@@ -9,3 +9,6 @@ I am a senior student at Dokuz Eylul University Computer Engineering. I have exp
 ### 📫 &nbsp;Reach me
 [![gmail](https://img.shields.io/badge/-atakan.kocyigitt@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:atakan.kocyigitt@gmail.com)
 [![linkedin](https://img.shields.io/badge/-AtakanKocyigit-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atakan-kocyigitt/)
+
+### ⚙️ &nbsp;GitHub Analytics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atakankocyigit&layout=compact&theme=radical)](https://github.com/atakankocyigit/github-readme-stats)
