@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior student at Dokuz Eylul University Computer Engineering. I have experience in programming languages such as Java, Python, C, C#, R. Besides my school education, I try to improve myself in artificial intelligence, machine learning and data science. 
+I graduated from Dokuz Eylul University Computer Engineering. I have experience in programming languages such as Java, Python, C, C#, R. Besides my school education, I try to improve myself in artificial intelligence, machine learning and data science. 
 
 
 - 🔭 I’m currently working on machine learning and deep learning
